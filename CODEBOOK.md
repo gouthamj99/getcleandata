@@ -10,9 +10,12 @@ This file contains a subset of columns from the combined data
 
 ### Primary Key
 * subject_id
-* activity_id
+* activity_name
 
 ### Other Variables
+The names of the vaiables are self explanatory. Each of the measurements
+is along x,y or z axis.  
+
  [3] "timeBodyAccelerationMean-X"                                 
  [4] "timeBodyAccelerationMean-Y"                                 
  [5] "timeBodyAccelerationMean-Z"                                 
