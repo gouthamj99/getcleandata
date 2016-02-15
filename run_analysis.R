@@ -94,5 +94,5 @@ aggregate_data = aggregate(required_data, by=list(subject_id=required_data$subje
 aggregate_data = subset(aggregate_data, , -c(3, 4))
 
 # Now write aggregate_data to a file. 
-write.table(aggregate_data, 'tidy_data.txt', row.names=TRUE, sep="\t")
+write.table(aggregate_data, 'tidy_data_no_row_names.txt', row.name=FALSE, sep="\t")
 
