@@ -16,6 +16,8 @@ This file contains a subset of columns from the combined data
 The names of the vaiables are self explanatory. Each of the measurements
 is along x,y or z axis.  
 
+### Other Variables
+>>>>>>> 5335d2b5247e8e2097466b7907aa8c962d426dc8
  [3] "timeBodyAccelerationMean-X"                                 
  [4] "timeBodyAccelerationMean-Y"                                 
  [5] "timeBodyAccelerationMean-Z"                                 
